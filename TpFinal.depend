@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1687219187 source:c:\users\cdter\onedrive\escritorio\facultad\laboratorio de computacion ii\tpfinal\main.c
+	"libreria.h"
+
+1687215016 c:\users\cdter\onedrive\escritorio\facultad\laboratorio de computacion ii\tpfinal\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<stdlib.h>
+
+1687285085 source:c:\users\cdter\onedrive\escritorio\facultad\laboratorio de computacion ii\tpfinal\libreria.c
+	"libreria.h"
+
+1687219187 source:c:\users\cdter\onedrive\escritorio\camila termine - tp final labo ii\main.c
+	"libreria.h"
+
+1687289386 c:\users\cdter\onedrive\escritorio\camila termine - tp final labo ii\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<stdlib.h>
+
+1687289829 source:c:\users\cdter\onedrive\escritorio\camila termine - tp final labo ii\libreria.c
+	"libreria.h"
+
